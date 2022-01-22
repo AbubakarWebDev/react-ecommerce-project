@@ -7,7 +7,7 @@ const MasterHead = () => {
             <div className="flex flex-col lg:w-full w-10/12 m-auto pl-5 py-20">
                 <p className='md:text-sm text-2xl uppercase mb-5'>WE’RE PROUD TO INTRODUCE</p>
                 <h1 className='md:text-3xl text-5xl font-bold font-montserrat uppercase'>
-                    Fashionable Fit <br />
+                    Fashionable Fit AbubakarWebDev <br />
                     Trending Style <br />
                     Men Wear
                 </h1>

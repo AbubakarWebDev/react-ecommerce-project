@@ -98,7 +98,6 @@ function App() {
             <Route path="/user"> <User /> </Route>
 
             <Route> <Error404 /> </Route>
-
           </Switch>
           <footer>
             <FooterContent />
